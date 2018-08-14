@@ -1,0 +1,9 @@
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Form1.resources
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\anapa\onedrive\documentos\visual studio 2015\Projects\Test\Test\obj\Debug\Test.pdb
